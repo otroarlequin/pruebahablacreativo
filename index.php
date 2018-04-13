@@ -144,21 +144,21 @@
 					<p class="font-weight-bold">
 						Tel:
 						<br>
-						3439241 - 3137050212
+						<span class="font-weight-normal">3439241 - 3137050212</span>
 					</p>
 				</div>
 				<div class="col-sm-3">
 					<img src="resources/Remanso-32.png"/>
 					<p class="font-weight-bold">
 						Dirección:<br/>
-						Calle 6 sur # 79 - 158 Medellín
+						<span class="font-weight-normal">Calle 6 sur # 79 - 158 Medellín</span>
 					</p>
 				</div>
 				<div class="col-sm-3">
 					<img src="resources/Remanso-33.png"/>
 					<p class="font-weight-bold">Hora de Atención:
 						<br/>
-						10:00 am - 5:30pm
+						<span class="font-weight-normal">10:00 am - 5:30pm</span>
 					</p>
 				</div>
 				<div class="col-sm-3">
@@ -169,7 +169,7 @@
 					</p>
 				</div>
 			</div>
-			<div class="row" style="padding-top: 20px;">
+			<div class="row" style="padding-top: 20px;" class="font-weight-normal">
 				<p>Las imágenes utilizadas sons representaciones digitales del diseño y junto con las oficinas, locales y apartamentos pueden variar en la construcción final. El mobiliario, electrodomésticos, gasodomésticos, acabados y demás elementos que aparecen en las imagenes son una representación a fin de ilustrar la utilización de los espacios y pueden diferir de lo entregado a no ser entregado según lo convenido en los contratos.Las áreas privadas y construidas podrán sufrir ajustes y quedarán finalmente determinadas en los contratos suscritos por las partes</p>
 			</div>
 			<div class="row" style="padding-top: 20px;">
