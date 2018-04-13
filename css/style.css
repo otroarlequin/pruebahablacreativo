@@ -1,0 +1,178 @@
+/** Fonts **/
+
+@font-face {
+	font-family: PTN77F;
+	src: url('../fonts/PTN77F.ttf');
+}
+
+@font-face {
+	font-family: BebasNeueBook;
+	src: url('../fonts/BebasNeue Book.otf');
+}
+
+@font-face {
+	font-family: BebasNeueBold;
+	src: url('../fonts/BebasNeue Bold.otf');
+}
+
+/** Fonts **/
+
+
+body{
+	font-family: PTN77F;
+}
+
+.nav-link{
+	color: #FFF;
+	font-size: 22px;
+}
+
+.navbar-nav li{
+	padding: 5px 15px 5px 0;
+}
+
+.navbar-nav li a:hover{
+	text-decoration: none;
+	color: #FFF;
+}
+
+.navbar-nav li a{
+	border-right: 1px solid white;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+	padding-right: 1.5rem;
+}
+
+.navbar-nav li:last-child .nav-link{
+	border-right: 0px;
+}
+
+#bg-nav{
+	background: #46200d;
+}
+
+.logo{
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 70px;
+	width: 373px;
+	height: 159px;
+}
+
+#home{
+	display: block;
+	background: url('../resources/Remanso-40.png') no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 932px;
+}
+
+#principal{
+	padding-top: 250px;
+}
+
+#bono{
+	display: block;
+	background: url('../resources/Remanso-07.png') no-repeat;
+	/*background-position: right;*/
+	height: 421px;
+}
+
+#formulario{
+	/*display: block;*/
+	background: url('../resources/Remanso-08.png') no-repeat;
+	height: 421px;
+}
+
+#formulario div{
+	margin-top: 2.5em;
+}
+
+#formulario table{
+	width: 75%;
+}
+
+#formulario table span{
+	text-align: center;
+	color: #FFF;
+}
+
+.btn{
+	width: 100px;
+	background: #46200d;
+	color: #FFF;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+
+#apartamentos{
+	background: #FFF;
+}
+
+#apartamentos .container{
+	padding-top: 50px; 
+	padding-bottom: 35px; 
+}
+
+#apartamentos .row img{
+	padding: 20px 15px 15px 0px;
+}
+
+#precio{
+	background: url('../resources/Remanso-19.png') no-repeat;
+}
+
+#footer{
+	background: url('../resources/Remanso-36.png') no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 489px;
+
+	padding: 0;
+}
+
+#footer h1,p{
+	text-align: center;
+}
+
+#footer h1{
+	font-family: BebasNeueBold;
+
+	padding-top: 50px; 
+	padding-bottom: 35px; 
+}
+
+#footer .col-sm-3{
+	text-align: center;
+}
+
+
+#footer img{
+	margin: 0 auto;
+}
+
+
+@media only screen and (min-width: 1200px) {
+	#formulario{
+		margin-left: -100px;
+	}
+}
+
+
+
+
+/* padding-bottom and top for image */
+.mfp-no-margins img.mfp-img {
+	padding: 0;
+}
+/* position of shadow behind the image */
+.mfp-no-margins .mfp-figure:after {
+	top: 0;
+	bottom: 0;
+}
+/* padding for main container */
+.mfp-no-margins .mfp-container {
+	padding: 0;
+}

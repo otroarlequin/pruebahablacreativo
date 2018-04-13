@@ -1,0 +1,12 @@
+Que debes entregar?
+	* URL de la landing implementada con base en el diseño (repsonsive).
+	* El código alojado en un repositorio Git (Github, Bitbucket)
+
+Que herramientas usar?
+	Puedes utilizar el framework que quieras, pero lo que más nos interesa es concoer tus habilidades en HTML5 y CSS (y por que no un poco de Javascript).
+
+Cuanto tiempo tienes para la entrega?
+	1 día. (si no logras terminarlo en el tiempo dado, no te preocupes, envíanos hasta donde llegaste, eso si, bien organizado)
+
+
+Mucha suerte!!!
